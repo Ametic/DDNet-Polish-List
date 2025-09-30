@@ -1,4 +1,4 @@
-# Kulkowy Megathread
+# Awesome DDNet PL
 
 Zbiór przydatnych linków i narzędzi związanych z DDNet'em. Jak masz propozycję co dodać, napisz do mnie na Discordzie.
 
