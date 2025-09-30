@@ -24,6 +24,7 @@ Zbiór przydatnych linków i narzędzi związanych z DDNet'em. Jak masz propozyc
 # Nieoficjalne clienty
 
 ### [Lista stworzona przez qxdFox](https://github.com/qxdFox/DDNet-Client-List)
+- Lista nieoficjalnych klientów wraz z przydatnymi informacjami i ciekawostkami o nich w języku angielskim.
 
 # Różne przydatne strony i narzędzia
 ### [Poradnik dla nowych graczy](https://www.youtube.com/watch?v=gp4wXgS3uO4)
